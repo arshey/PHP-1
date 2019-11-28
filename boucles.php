@@ -130,7 +130,7 @@ foreach ($notes as $note ) {
   * On demande à l'utilisateur de rentrer les crenaux
   *     on vérifie que l'heure d'ouverture est supérieur à l'heure fin
   *     on demande si on veut rajouter un nouveau creneau (o/n)
-  * On demande à l'utilisateur de reentrer une heure
+  * On demande à l'utilisateur de rentrer une heure
   * On affiche l'état d'ouverture du magasin
   */
 

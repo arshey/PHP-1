@@ -1,0 +1,23 @@
+
+
+
+
+
+<?php
+
+while (true) {
+    $a = readline("Mot de passe : ");
+    if ($a !== "oui") {
+        echo "reesaie";
+        break;
+    } else {
+        header('Location: http://www.google.com/');
+    }
+}
+
+while (true) {
+        $ouverture = readline('oui');
+        if ($ouverture >= 0 && $ouverture <= 23) {
+            break;
+        }
+    }
